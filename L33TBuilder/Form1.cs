@@ -1,6 +1,4 @@
-﻿/// <summary>
-/// Made by Cursedsheep ;D
-/// </summary>
+///sa
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
